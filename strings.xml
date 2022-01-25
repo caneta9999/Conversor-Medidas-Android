@@ -1,0 +1,26 @@
+﻿<resources>
+    <string name="app_name">App1</string>
+    <string name="lbltitulo">Conversor de Unidades</string>
+    <string name="lbldescricao">Esse programa serve para converter unidades de medida. A caixa de seleção de opções
+        serve para escolher o tipo de conversão. A primeira caixa de inserção de texto serve para colocar a unidade
+        no Sistema Imperial e a segunda caixa de inserção de texto serve para colocar a unidade no Sistema Internacional.
+        Depois de inserir o valor da unidade que deve ser convertida em sua respectiva caixa e selecionar a opção de conversão,
+        é só pressionar o botão que represente o sentido desejado da conversão. Ademais, se quiser um determinado número de casas decimais,
+        basta digitar a quantia desejada na caixa de inserção de número de casas para o arredondamento.</string>
+    <string name="lblunidade">Tipo de conversão</string>
+    <string name="lblunidadeimp">Sistema Imperial</string>
+    <string name="lblunidadeint">Sistema Internacional</string>
+    <string name="btnconverteimperial">Clique para converter: Imperial -> Internacional</string>
+    <string name="btnconverteinternacional">Clique para converter: Internacional -> Imperial</string>
+    <string name="txtultimaconversao">Última conversão realizada: </string>
+    <string name="lblarredondamento">Nº de casas para o arredondamento</string>
+    <string name="ultimaconversaotextomuitogrande">"Última conversão realizada: valor muito grande para ser exibido!"</string>
+    <string name="ultimaconversaorealizada">"Última conversão realizada: "</string>
+    <string-array name="opcoesConversao">
+        <item>polegada - cm</item>
+        <item>pés - metros</item>
+        <item>milha - km</item>
+        <item>°Farenheit - °Celsius</item>
+        <item>nós - km/h</item>
+    </string-array>
+</resources>
